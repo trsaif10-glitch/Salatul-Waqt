@@ -1,0 +1,6 @@
+{
+  "name": "Salatul Waqt",
+  "description": "Accurate global prayer times, Tahajjud, Ishraq, Duha, Awwabin, forbidden times, Qibla compass, Sehri & Iftar, Tasbih, Hijri calendar, and complete A-to-Z Salah guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

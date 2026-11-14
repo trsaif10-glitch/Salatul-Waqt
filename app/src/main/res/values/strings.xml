@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Salatul Waqt</string>
+    <string name="notification_channel_name">Prayer Time Reminders</string>
+    <string name="notification_channel_desc">Notifications when each prayer time begins</string>
+    <string name="cd_hero_banner">Salatul Waqt prayer time card</string>
+    <string name="cd_qibla_compass">Qibla direction compass</string>
+    <string name="cd_location_detect">Detect current location via GPS</string>
+</resources>
